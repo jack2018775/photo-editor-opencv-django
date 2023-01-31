@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+   cd C:/Users/jackson/Documents/zizi/JACKSON/Dev/Projeto TCC/TCC_Ambiente/Scripts && activate && cd C:\Users\jackson\Documents\zizi\JACKSON\Dev\Django && cls
+
